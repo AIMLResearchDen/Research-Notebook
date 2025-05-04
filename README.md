@@ -25,7 +25,9 @@ We are a diverse group of 10+ passionate individuals from different backgrounds 
 
 Built on curiosity, collaboration, and a shared drive to make a difference, our Den is more than just a group — it’s a space where ideas evolve and futures are shaped. Pray for us, and we hope to contribute something valuable to the research community.
 
-#### _**Interested in joining us?**_ Hop into our [Discord server ](https://discord.gg/EH7UM6EM3g)or reach out via email at [**aimlresearchden@gmail.com**](https://app.gitbook.com/u/buHfs24bNfWt3KCT8W8KAGXgOkZ2) — we'd love to connect!
+#### _**Interested in joining us?**_
+
+#### Hop into our [Discord server ](https://discord.gg/EH7UM6EM3g)or reach out via email at [**aimlresearchden@gmail.com**](https://app.gitbook.com/u/buHfs24bNfWt3KCT8W8KAGXgOkZ2) — we'd love to connect!
 
 ### Jump right in
 
