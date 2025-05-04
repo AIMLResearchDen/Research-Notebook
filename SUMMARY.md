@@ -16,3 +16,12 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+
+## Resources
+
+* [Important Links](resources/important-links.md)
+
+## Copy of Resources
+
+* [Important Links](copy-of-resources/important-links.md)
+* [Top AI + Data Conferences & Journals](copy-of-resources/top-ai-+-data-conferences-and-journals.md)

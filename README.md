@@ -1,7 +1,8 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/s.png
-coverY: 227.68904593639573
+cover: >-
+  https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxjb2RlfGVufDB8fHx8MTc0NjMzODQ4OXww&ixlib=rb-4.0.3&q=85
+coverY: 0
 layout:
   cover:
     visible: true
