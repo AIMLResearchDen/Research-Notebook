@@ -3,6 +3,11 @@
 * [Welcome to AIML Research Den](README.md)
 * [Team Members](team.md)
 
+## Resources
+
+* [Important Links](resources/important-links.md)
+* [Top AI + Data Conferences & Journals](resources/top-ai-+-data-conferences-and-journals.md)
+
 ## Getting Started
 
 * [Quickstart](getting-started/quickstart.md)
@@ -17,11 +22,6 @@
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
 
-## Resources
-
-* [Important Links](resources/important-links.md)
-
 ## Copy of Resources
 
 * [Important Links](copy-of-resources/important-links.md)
-* [Top AI + Data Conferences & Journals](copy-of-resources/top-ai-+-data-conferences-and-journals.md)
