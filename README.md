@@ -27,7 +27,7 @@ Built on curiosity, collaboration, and a shared drive to make a difference, our 
 
 #### _**Interested in joining us?**_
 
-Hop into our [Discord server ](https://discord.gg/EH7UM6EM3g)or reach out via email at [**aimlresearchden@gmail.com**](https://app.gitbook.com/u/buHfs24bNfWt3KCT8W8KAGXgOkZ2) — we'd love to connect!
+Hop into our [**Discord server** ](https://discord.gg/EH7UM6EM3g)or reach out via email at [**aimlresearchden@gmail.com**](https://app.gitbook.com/u/buHfs24bNfWt3KCT8W8KAGXgOkZ2) — we'd love to connect!
 
 ### Jump right in
 
