@@ -1,7 +1,7 @@
 ---
 icon: hand-wave
 cover: .gitbook/assets/s.png
-coverY: 0
+coverY: 227.68904593639573
 layout:
   cover:
     visible: true
@@ -15,15 +15,18 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Welcome to AIML Research Den
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+We are a diverse group of 10+ passionate individuals from different backgrounds and regions, united by a single goal: to conduct meaningful research in Artificial Intelligence and Machine Learning. This is just the beginning of our journey — we don’t yet know where it will lead, but we’re determined to grow, learn, and publish quality work in top conferences and journals.
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+Built on curiosity, collaboration, and a shared drive to make a difference, our Den is more than just a group — it’s a space where ideas evolve and futures are shaped. Pray for us, and we hope to contribute something valuable to the research community.
+
+#### _**Interested in joining us?**_ Hop into our [Discord server ](https://discord.gg/EH7UM6EM3g)or reach out via email at [**aimlresearchden@gmail.com**](https://app.gitbook.com/u/buHfs24bNfWt3KCT8W8KAGXgOkZ2) — we'd love to connect!
 
 ### Jump right in
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+
