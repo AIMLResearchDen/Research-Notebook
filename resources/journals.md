@@ -15,7 +15,7 @@ layout:
 
 # Journals
 
-🧠 Top 10 Journal Recommendations for Your AI/ML Mental Health Survey
+🧠 Top 10 Journal for AI/ML Mental Health Survey
 
 
 
