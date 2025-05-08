@@ -1,4 +1,5 @@
 ---
+icon: ballot
 layout:
   title:
     visible: true
