@@ -11,6 +11,10 @@
 * [Conferences & Journals](resources/conferences-and-journals.md)
 * [Journals](resources/journals.md)
 
+## PROJECT HELPING AUTISTIC CHILDEN
+
+* [Reading List](project-helping-autistic-childen/reading-list.md)
+
 ## Project Mental Health
 
 * [Reading List](project-mental-health/reading-list.md)
@@ -19,22 +23,21 @@
 
 * [Reading List](project-suicide-prevention/reading-list.md)
 
-## PROJECT HELPING AUTISTIC CHILDEN
-
-* [Reading List](project-helping-autistic-childen/reading-list.md)
-
 ## Getting Started
 
 * [Quickstart](getting-started/quickstart.md)
+* [Markdown](getting-started/markdown.md)
+* [Editor](getting-started/editor.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
+* [Images & media](getting-started/images-and-media.md)
+
+***
+
+* [Interactive blocks](interactive-blocks.md)
+* [OpenAPI](openapi.md)
 
 ## Basics
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
 
 ## Copy of Resources
