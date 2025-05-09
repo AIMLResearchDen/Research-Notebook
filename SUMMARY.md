@@ -3,6 +3,7 @@
 * [Welcome](README.md)
 * [Team Members](team.md)
 * [Published Papers](published-papers.md)
+* [Current Projects](current-projects.md)
 
 ## Resources
 
