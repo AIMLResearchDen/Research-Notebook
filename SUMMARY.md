@@ -29,17 +29,10 @@
 * [Markdown](getting-started/markdown.md)
 * [Editor](getting-started/editor.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
+* [Interactive blocks](getting-started/interactive-blocks.md)
+* [Integrations](getting-started/integrations.md)
 * [Images & media](getting-started/images-and-media.md)
 
 ***
 
-* [Interactive blocks](interactive-blocks.md)
 * [OpenAPI](openapi.md)
-
-## Basics
-
-* [Integrations](basics/integrations.md)
-
-## Copy of Resources
-
-* [Important Links](copy-of-resources/important-links.md)
