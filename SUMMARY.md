@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to AIML Research Den](README.md)
+* [Welcome](README.md)
 * [Team Members](team.md)
 * [Published Papers](published-papers.md)
 
