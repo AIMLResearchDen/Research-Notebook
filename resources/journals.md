@@ -1,5 +1,5 @@
 ---
-icon: ballot
+icon: bars-filter
 layout:
   title:
     visible: true
