@@ -7,7 +7,7 @@
 ## Resources
 
 * [Important Links](resources/important-links.md)
-* [Top AI + Data Conferences & Journals](resources/top-ai-+-data-conferences-and-journals.md)
+* [Conferences & Journals](resources/conferences-and-journals.md)
 * [Journals](resources/journals.md)
 
 ## Project Mental Health

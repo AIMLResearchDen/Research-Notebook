@@ -19,7 +19,7 @@ layout:
     visible: false
 ---
 
-# Welcome to AIML Research Den
+# Welcome
 
 We are a diverse group of 10+ passionate individuals from different backgrounds and regions, united by a single goal: to conduct meaningful research in Artificial Intelligence and Machine Learning. This is just the beginning of our journey — we don’t yet know where it will lead, but we’re determined to grow, learn, and publish quality work in top conferences and journals.
 
@@ -31,5 +31,5 @@ Hop into our [**Discord server** ](https://discord.gg/EH7UM6EM3g)or reach out vi
 
 ### Jump right in
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Team Members</strong></td><td></td><td></td><td></td><td><a href="team.md">team.md</a></td></tr><tr><td>Top AI + Data Conferences &#x26; Journals</td><td></td><td></td><td></td><td><a href="resources/top-ai-+-data-conferences-and-journals.md">top-ai-+-data-conferences-and-journals.md</a></td></tr><tr><td>Important Links</td><td></td><td></td><td></td><td><a href="copy-of-resources/important-links.md">important-links.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Team Members</strong></td><td></td><td></td><td></td><td><a href="team.md">team.md</a></td></tr><tr><td>Top AI + Data Conferences &#x26; Journals</td><td></td><td></td><td></td><td><a href="resources/conferences-and-journals.md">conferences-and-journals.md</a></td></tr><tr><td>Important Links</td><td></td><td></td><td></td><td><a href="copy-of-resources/important-links.md">important-links.md</a></td></tr></tbody></table>
 
