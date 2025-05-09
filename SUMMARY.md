@@ -2,12 +2,25 @@
 
 * [Welcome to AIML Research Den](README.md)
 * [Team Members](team.md)
+* [Published Papers](published-papers.md)
 
 ## Resources
 
 * [Important Links](resources/important-links.md)
 * [Top AI + Data Conferences & Journals](resources/top-ai-+-data-conferences-and-journals.md)
 * [Journals](resources/journals.md)
+
+## Project Mental Health
+
+* [Reading List](project-mental-health/reading-list.md)
+
+## Project Suicide Prevention
+
+* [Reading List](project-suicide-prevention/reading-list.md)
+
+## PROJECT HELPING AUTISTIC CHILDEN
+
+* [Reading List](project-helping-autistic-childen/reading-list.md)
 
 ## Getting Started
 
