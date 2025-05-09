@@ -13,7 +13,7 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: false
+    visible: true
 ---
 
 # Top AI + Data Conferences & Journals
